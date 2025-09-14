@@ -1,5 +1,5 @@
 # js-playground
-🔥🎮 My JavaScript practice playground: projects, exercises, and experiments ⚡🚀
+🔥🎮 _My JavaScript practice playground: projects, exercises, and experiments_ ⚡🚀
 🚧 Work in Progress – Actively learning and building JavaScript projects!
 
 js-playground is my personal repository where I practice JavaScript through a variety of mini projects and exercises. I’m learning from multiple sources, including YouTube tutorials and other online resources, to strengthen my understanding of JavaScript concepts such as loops, conditionals, functions, arrays/objects, and DOM manipulation.
@@ -58,4 +58,5 @@ Open main.html in your browser
 
 📚 Notes
 This repository is a snapshot of my learning journey in JavaScript.
-Most of the inital projects are my learnings from the youtuber TECH WITH TIM.
+
+Most of the inital projects are my learnings from the youtuber _TECH WITH TIM_.
