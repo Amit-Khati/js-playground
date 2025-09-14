@@ -5,13 +5,21 @@
 js-playground is my personal repository where I practice JavaScript through a variety of mini projects and exercises. I’m learning from multiple sources, including YouTube tutorials and other online resources, to strengthen my understanding of JavaScript concepts such as loops, conditionals, functions, arrays/objects, and DOM manipulation.
 
 📂 Projects
+
 01	Quiz Game (Console Based)
+
 02	Random Number Guesser (Console Based)
+
 03	Rock Paper Scissors (Console Based)
+
 04	Choose Your Own Adventure (Console Based)
+
 05  Colour Flipper (Web Based)
+
 06  Palindrome Checker (Web Based)
+
 07  Random Quote Generator (Web Based)
+
 08  
 …	…	…	…	…
 
