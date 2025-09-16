@@ -8,11 +8,8 @@ Built as part of my JavaScript practice projects.
 ## 📝 Features
 
 - 6 OOP-related questions.
-- 
 - Takes user input with **prompt-sync**.
-- 
 - Gives instant feedback (correct/wrong).
-- 
 - Displays total score and percentage at the end.
 
 ---
@@ -23,14 +20,11 @@ Built as part of my JavaScript practice projects.
    cd 01_QUIZ_GAME
 Install dependency:
 
-bash
-Copy code
-
-npm install prompt-sync
-
+   ```bash
+   npm install prompt-sync
 Run the game:
 
-node script.js
+   node script.js
 
 
 📊 Sample Output
