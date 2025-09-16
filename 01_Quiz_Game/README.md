@@ -21,14 +21,14 @@ Built as part of my JavaScript practice projects.
 Install dependency:
 
    ```bash
-   npm install prompt-sync
+npm install prompt-sync
+```
 Run the game:
-
+   ```bash
    node script.js
-
-
+```
 📊 Sample Output
-
+```
 Welcome To the OOPS Quiz!
 
 What is the blueprint of an object called? class
@@ -39,7 +39,7 @@ You got it correct!
 You got 5 answers correct.
 
 Your percentage score is: 83%.
-
+```
 
 
 🎯 Learning Goals
