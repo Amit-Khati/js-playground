@@ -6,9 +6,13 @@ Built as part of my JavaScript practice projects.
 ---
 
 ## 📝 Features
+
 - 6 OOP-related questions.
+- 
 - Takes user input with **prompt-sync**.
+- 
 - Gives instant feedback (correct/wrong).
+- 
 - Displays total score and percentage at the end.
 
 ---
@@ -21,21 +25,31 @@ Install dependency:
 
 bash
 Copy code
+
 npm install prompt-sync
+
 Run the game:
+
 node script.js
 
 
 📊 Sample Output
+
 Welcome To the OOPS Quiz!
+
 What is the blueprint of an object called? class
+
 You got it correct!
+
 ...
 You got 5 answers correct.
+
 Your percentage score is: 83%.
 
 
+
 🎯 Learning Goals
+
 Learn Node.js basics.
 
 Practice taking input with prompt-sync.
