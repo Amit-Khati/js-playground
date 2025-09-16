@@ -18,8 +18,7 @@ Built as part of my JavaScript practice projects.
 1. Go to this project folder:
    ```bash
    cd 01_QUIZ_GAME
-`
-   Install dependency:
+Install dependency:
 
    ```bash
    npm install prompt-sync
