@@ -18,38 +18,39 @@ Built as part of my JavaScript practice projects.
 1. Go to this project folder:
    ```bash
    cd 01_QUIZ_GAME
-Install dependency:
+`
+   Install dependency:
 
    ```bash
-npm install prompt-sync
-```
-Run the game:
+   npm install prompt-sync
+   ```
+   Run the game:
    ```bash
    node script.js
-```
+   ```
 📊 Sample Output
-```
-Welcome To the OOPS Quiz!
+   ```
+   Welcome To the OOPS Quiz!
 
-What is the blueprint of an object called? class
+   What is the blueprint of an object called? class
 
-You got it correct!
+   You got it correct!
 
-...
-You got 5 answers correct.
+   ...
+   You got 5 answers correct.
 
-Your percentage score is: 83%.
-```
+   Your percentage score is: 83%.
+   ```
 
 
 🎯 Learning Goals
 
-Learn Node.js basics.
+   Learn Node.js basics.
 
-Practice taking input with prompt-sync.
+   Practice taking input with prompt-sync.
 
-Work with conditionals and scoring logic.
+   Work with conditionals and scoring logic.
 
-Revise OOP fundamentals interactively.
+   Revise OOP fundamentals interactively.
 
 📚 Note: Made while following tutorials (mainly from Tech With Tim) with my own modifications as part of my JS learning journey.
