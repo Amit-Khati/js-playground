@@ -54,7 +54,6 @@ Browser Projects:
 
 Open main.html in your browser
 
-(Each project folder also includes a README with project-specific details.)
 
 📚 Notes
 This repository is a snapshot of my learning journey in JavaScript.
