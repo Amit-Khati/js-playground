@@ -46,9 +46,9 @@ Eventually create my own original JS projects beyond tutorials
 🚀 How to Run a Project
 
 Console Projects:
-
+```bash
 node script.js
-
+```
 
 Browser Projects:
 
