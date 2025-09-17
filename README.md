@@ -37,6 +37,7 @@ HTML & CSS (for browser-based projects)
 
 Node.js (for console projects)
 
+---
 
 ### 🎯 Learning Goals
 
