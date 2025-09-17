@@ -52,4 +52,4 @@ Install dependency:
 
    Revise OOP fundamentals interactively.
 
-📚 Note: Made while following tutorials (mainly from Tech With Tim) with my own modifications as part of my JS learning journey.
+📚 Note: Made as part of my JavaScript mini-projects practice series (_TechWithTim_).
