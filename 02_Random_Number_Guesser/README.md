@@ -1,7 +1,6 @@
 # 🎲 02 Random Number Guesser
 
 A simple **console-based guessing game** where the computer generates a random number and you try to guess it.  
-Built as part of my JavaScript practice projects.
 
 ---
 
@@ -40,13 +39,10 @@ Built as part of my JavaScript practice projects.
   Guess the number (0-100): 72
   CONGRATULATIONS!, You got it correct in 3 guesses.
   ```
-🎯 Learning Goals
-   Learn Node.js basics.
-
-   Practice taking input with prompt-sync.
-
-   Work with conditionals and scoring logic.
-
-   Revise OOP fundamentals interactively.
+## 🎯 Learning Goals
+- Learn Node.js basics.
+- Practice taking input with prompt-sync.
+- Work with conditionals and scoring logic.
+- Revise OOP fundamentals interactively.
    
 📚 Note: Made as part of my JavaScript mini-projects practice series (_TechWithTim_).
