@@ -1,7 +1,6 @@
 # 🎮 01 Quiz Game
 
-A simple **console-based quiz game** that tests your knowledge of **Object-Oriented Programming (OOPs)** concepts.  
-Built as part of my JavaScript practice projects.
+A simple **console-based quiz game** that tests your knowledge of **Object-Oriented Programming (OOPs)** concepts.
 
 ---
 
@@ -42,14 +41,11 @@ Install dependency:
    ```
 
 
-🎯 Learning Goals
+## 🎯 Learning Goals
 
-   Learn Node.js basics.
-
-   Practice taking input with prompt-sync.
-
-   Work with conditionals and scoring logic.
-
-   Revise OOP fundamentals interactively.
+ - Learn Node.js basics.
+ - Practice taking input with prompt-sync.
+ - Work with conditionals and scoring logic.
+ - Revise OOP fundamentals interactively.
 
 📚 Note: Made as part of my JavaScript mini-projects practice series (_TechWithTim_).
