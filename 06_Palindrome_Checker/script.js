@@ -8,8 +8,9 @@ function check(){
     if (value===reverse){
         alert("P A L I N D R O M E");
     }else{
-        alert("Not today!");
+        alert("Not Palindrome!");
     }
 
     input.value=""
+
 }
