@@ -9,7 +9,7 @@ View live at: https://amit-khati.github.io/js-playground/06_Palindrome_Checker/
 
 - Accepts user input through a text field.  
 - Checks if the input is a palindrome (case-insensitive).  
-- Displays an alert with the result (`PALINDROME` / `Not today!`).  
+- Displays an alert with the result (`PALINDROME` / `Not Palindrome!`).  
 - Resets input after each check.  
 
 ---
@@ -28,7 +28,7 @@ View live at: https://amit-khati.github.io/js-playground/06_Palindrome_Checker/
 ## 📊 Sample Output
 
  - Typing racecar and clicking Check → PALINDROME alert.
- - Typing hello and clicking Check → Not Palindrome alert.
+ - Typing hello and clicking Check → Not Palindrome! alert.
 
 
 ## 🎯 Learning Goals
