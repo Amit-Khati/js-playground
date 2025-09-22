@@ -37,4 +37,5 @@ View live at: https://amit-khati.github.io/js-playground/06_Palindrome_Checker/
  - Learn to handle user input and retrieve values from text fields.
  - Understand string operations and reversing strings.
  - Build interactive web tools using HTML and JavaScript.
+   
 📚 Note: Made as part of my JavaScript mini-projects practice series (_TechWithTim_).
