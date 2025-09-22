@@ -1,6 +1,8 @@
-# 🧭 05 Colour Flipper
+# 🎨 05 Colour Flipper
 
 A simple **web-based interactive project** that allows you to change the background colour of the page using buttons or random colour generation.
+
+View live at: https://amit-khati.github.io/js-playground/05_Colour_Flipper/
 
 ---
 
