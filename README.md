@@ -22,7 +22,13 @@ js-playground is my personal repository where I practice JavaScript through a va
 
 07  Random Quote Generator (Web Based)
 
-08  
+08  Stop Watch (Web Based)
+
+09  TODO List (Web Based)
+
+10 Contact Management System (Console Based)
+
+11
 …	…	…	…	…
 
 (Projects will be updated as I complete them — numbering keeps them organized.)
